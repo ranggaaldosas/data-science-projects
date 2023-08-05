@@ -2,7 +2,6 @@
 
 <p align="center">
     <img src="https://i.ibb.co/tCKc47b/memee.jpg">
-p>
 
 ## :)
 
