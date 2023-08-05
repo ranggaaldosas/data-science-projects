@@ -1,5 +1,9 @@
 # data-science-projects
 
+<p align="center">
+    <img src="https://i.ibb.co/tCKc47b/memee.jpg">
+p>
+
 ## :)
 
 ```python
@@ -23,5 +27,3 @@ print("Data Science Wizardry with pingouin:")
 print(ttest_result)
 
 ```
-
-![meme](https://i.ibb.co/tCKc47b/memee.jpg)
